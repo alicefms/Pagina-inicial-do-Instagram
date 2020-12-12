@@ -1,2 +1,5 @@
 # aula_JavaScript
-Introdução ao JS
+
+Pagina inicial do Instagram
+
+Tecnologias: JS e CSS
